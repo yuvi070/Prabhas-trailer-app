@@ -1,0 +1,17 @@
+.home{
+    width: 80vw;
+    height: 83vh;
+    background-color:#101820FF  ;
+    padding: 25px;
+    border-radius: 10px;
+}
+.main-image{
+    width: 50%;
+    border-radius: 9px;
+    box-shadow: #F2AA4CFF;
+}
+.main-heading{
+    text-align: left;
+    color: #F2AA4CFF ;
+    font-size: 26px;
+}
